@@ -24,7 +24,7 @@ This repository contains multiple data analytics projects built using Microsoft 
 - Data Tables
 
 ## 🙏 Mentorship
-Grateful for the guidance from my mentors **Keshore** and **Harshavardhini** throughout this learning process.
+Grateful for the guidance from my mentors **Harshavardhini** and **kishore** throughout this learning process.
 
 ## 🌐 Connect with Me
 More Excel tasks and case studies coming soon! 🚀
